@@ -1,5 +1,5 @@
 {% set name = "mkdocs-graphviz" %}
-{% set version = "1.4.4" %}
+{% set version = "1.4.6" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/mkdocs_graphviz-{{ version }}.tar.gz
-  sha256: 47586556ef2e137a2d58366ea9848a53c8051887c18e426e004d58ce551a0afa
+  sha256: e510d2ea815014fff8d542913be3d611bf968edbbcea59260b9204fe708ae9c7
 
 build:
   noarch: python
@@ -33,7 +33,7 @@ test:
 about:
   home: https://gitlab.com/rodrigo.schwencke/mkdocs-graphviz.git
   summary: Render Graphviz graphs in Mkdocs directly from your Markdown
-  license:  GPL-3.0-or-later
+  license: GPL-3.0-or-later
   license_file: LICENSE
 
 extra:
