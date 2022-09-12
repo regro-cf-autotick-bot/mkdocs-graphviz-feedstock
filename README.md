@@ -1,7 +1,7 @@
 About mkdocs-graphviz
 =====================
 
-Home: https://gitlab.com/rodrigo.schwencke/mkdocs-graphviz.git
+Home: https://gitlab.com/rod2ik/mkdocs-graphviz.git
 
 Package license: GPL-3.0-or-later
 

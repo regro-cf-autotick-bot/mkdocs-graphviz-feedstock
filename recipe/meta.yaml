@@ -31,7 +31,7 @@ test:
     - pip
 
 about:
-  home: https://gitlab.com/rodrigo.schwencke/mkdocs-graphviz.git
+  home: https://gitlab.com/rod2ik/mkdocs-graphviz.git
   summary: Render Graphviz graphs in Mkdocs directly from your Markdown
   license: GPL-3.0-or-later
   license_file: LICENSE
