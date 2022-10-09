@@ -1,5 +1,5 @@
 {% set name = "mkdocs-graphviz" %}
-{% set version = "1.4.87" %}
+{% set version = "1.4.91" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/mkdocs_graphviz-{{ version }}.tar.gz
-  sha256: 39d1cb20f0f0b53c3fd01c5bde43cc4883c5337154a9dc444a476eb5b84418e9
+  sha256: 26fd575026a376d1134045fa9e6c161ea36137fe8e370b8ceb10f36cfdf8ca15
 
 build:
   noarch: python
